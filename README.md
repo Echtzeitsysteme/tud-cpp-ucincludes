@@ -1,6 +1,6 @@
 # tud-cpp-ucincludes
 
-This files are required in order to use the peripherals of the SK-16FX board.
+These files are required in order to use the peripherals of the SK-16FX board.
 Include **mb96348hs.h** in your main program to use them.
 
 Additionally, **start.asm** may be used to customise the initialisation of the board and **vector.c** may be used to implement interrupt handling.
