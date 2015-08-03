@@ -1012,7 +1012,7 @@ Revision 0.1  2006/01/25 15:37:46  phu
 ; 4.15  UART scanning
 ;====================================================================
 
-#set      UART_SCANNING   OFF        ; <<< enable UART scanning in
+#set      UART_SCANNING   ON         ; <<< enable UART scanning in
                                      ;     Internal Vector Mode
 ;
 ; By default, the MCU scans in Internal Vector Mode for a UART
